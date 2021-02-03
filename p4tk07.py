@@ -9,7 +9,7 @@ def print_txtval():
 
 root = tk. Tk()
 root.title('get text box')
-root.geometry('350x150')
+root.geometry('400x150')
 
 lb = tk.Label(text = 'label')
 en = tk.Entry()
